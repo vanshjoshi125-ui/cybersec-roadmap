@@ -66,5 +66,5 @@ This repository contains my notes, labs, scripts, projects, and certifications.
 
 ## Contact
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/vanshjoshi125-ui
 LinkedIn: Add your LinkedIn profile
